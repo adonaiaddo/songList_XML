@@ -1,0 +1,82 @@
+<?xml-stylesheet type = "text/css" href = "songList_CSS.css"?>
+<songList title = "Wedding Songs">
+	    <song>
+	        <title>Love Story</title>
+	        <artiste>Taylor Swift</artiste>
+	        <genres>Pop</genres>
+	        <description>Inspired by Romeo and Juliet</description>
+	        <year>2008</year>
+	    </song>
+	
+	    <song>
+	        <title>Settled</title>
+	        <artiste>Passenger</artiste>
+	        <genres>Folk</genres>
+	        <description>I settled for her and she settled for me</description>
+	        <year>2015</year>
+	    </song>
+	
+	    <song>
+	        <title>Perfect</title>
+	        <artiste>Ed Sheeran</artiste>
+	        <genres>Pop</genres>
+	        <description>This song has a slow dance to it</description>
+	        <year>2017</year>
+	    </song>
+	
+	    <song>
+	        <title>You Belong With Me</title>
+	        <artiste>Taylor Swift</artiste>
+	        <genres>Country, Pop</genres>
+	        <description>Can't you see that you belong with me?</description>
+	        <year>2008</year>
+	    </song>
+	
+	    <song>
+	        <title>Patient Love</title>
+	        <artiste>Passenger</artiste>
+	        <genres>Folk, Pop, Acoustic</genres>
+	        <description>I'll wait for you</description>
+	        <year>2012</year>
+	    </song>
+	
+	    <song>
+	        <title>Perfect Symphony</title>
+	        <artiste>Ed Sheeran with Andrea Bocelli</artiste>
+	        <genres>Pop</genres>
+	        <description>Perfect with Italian opera mix</description>
+	        <year>2017</year>
+	    </song>
+	
+	    <song>
+	        <title>Love Me Like You Do</title>
+	        <artiste>Ellie Goulding</artiste>
+	        <genres>Electropop</genres>
+	        <description>Can Be Played During Dinner</description>
+	        <year>2015</year>
+	    </song>
+	
+	    <song>
+	        <title>I Don't Care</title>
+	        <artiste>Ed Sheeran and Justin Bieber</artiste>
+	        <genres>Pop</genres>
+	        <description>Fast Dance</description>
+	        <year>2019</year>
+	    </song>
+	
+	    <song>
+	        <title>All too well</title>
+	        <artiste>Taylor Swift</artiste>
+	        <genres>Country, Pop, Arena rock</genres>
+	        <description>Slow Dance</description>
+	        <year>2012</year>
+	    </song>
+	
+	    <song>
+	        <title>Everything Has Changed</title>
+	        <artiste>Taylor Swift ft Ed Sheeran</artiste>
+	        <genres>Folk music, Country</genres>
+	        <description>For the After Party</description>
+	        <year>2012</year>
+	    </song>
+	</songList>
